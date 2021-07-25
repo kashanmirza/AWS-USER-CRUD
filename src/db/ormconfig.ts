@@ -1,9 +1,9 @@
-{
+export default {
     "type": "mysql",
     "host": "localhost",
     "port": "3306",
-    "username": "root",
-    "password": "root",
+    "username": "kashan",
+    "password": "@Password1",
     "database": "aws-crud",
     "synchronize": false,
     "logging": true,
